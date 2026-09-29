@@ -1,0 +1,155 @@
+[
+  {
+    "epsilon": 0.5,
+    "state": [
+      0,
+      0
+    ],
+    "seed": 20260928,
+    "draws": 100000,
+    "empirical_mse": 10.435695974888848,
+    "expected_mse": 10.375482360413294,
+    "standard_error": 0.03835177659262995,
+    "mean_coordinate_error": [
+      0.004630433051848909,
+      0.001985128281836142
+    ],
+    "sampling_seconds": 0.04147195804398507
+  },
+  {
+    "epsilon": 0.5,
+    "state": [
+      3,
+      2
+    ],
+    "seed": 20260929,
+    "draws": 100000,
+    "empirical_mse": 11.600157078661674,
+    "expected_mse": 11.645559625114677,
+    "standard_error": 0.036734901665880275,
+    "mean_coordinate_error": [
+      0.0003407938516766349,
+      0.008550945028646175
+    ],
+    "sampling_seconds": 0.0372554580681026
+  },
+  {
+    "epsilon": 0.5,
+    "state": [
+      8,
+      0
+    ],
+    "seed": 20260930,
+    "draws": 100000,
+    "empirical_mse": 11.301073137425718,
+    "expected_mse": 11.253703507464289,
+    "standard_error": 0.036868611646116385,
+    "mean_coordinate_error": [
+      -0.011385286591955394,
+      -0.0024025090314934365
+    ],
+    "sampling_seconds": 0.038431957946158946
+  },
+  {
+    "epsilon": 1,
+    "state": [
+      0,
+      0
+    ],
+    "seed": 20260928,
+    "draws": 100000,
+    "empirical_mse": 2.359496496354675,
+    "expected_mse": 2.354105672799723,
+    "standard_error": 0.011530058916482445,
+    "mean_coordinate_error": [
+      -0.0018944803792723286,
+      0.002630295521082066
+    ],
+    "sampling_seconds": 0.04700241703540087
+  },
+  {
+    "epsilon": 1,
+    "state": [
+      3,
+      2
+    ],
+    "seed": 20260929,
+    "draws": 100000,
+    "empirical_mse": 3.012481167695393,
+    "expected_mse": 3.0236949243589892,
+    "standard_error": 0.0125544964510245,
+    "mean_coordinate_error": [
+      0.0032105490883106635,
+      -0.005433522074435708
+    ],
+    "sampling_seconds": 0.04945862491149455
+  },
+  {
+    "epsilon": 1,
+    "state": [
+      8,
+      0
+    ],
+    "seed": 20260930,
+    "draws": 100000,
+    "empirical_mse": 2.766118240360966,
+    "expected_mse": 2.7710318568698438,
+    "standard_error": 0.011930986154902519,
+    "mean_coordinate_error": [
+      -0.0023341784805983173,
+      -1.4522307512033574e-05
+    ],
+    "sampling_seconds": 0.038328749942593277
+  },
+  {
+    "epsilon": 4,
+    "state": [
+      0,
+      0
+    ],
+    "seed": 20260928,
+    "draws": 100000,
+    "empirical_mse": 0.0560975,
+    "expected_mse": 0.05539667771788201,
+    "standard_error": 0.000679488095538266,
+    "mean_coordinate_error": [
+      0.00041,
+      -0.0005
+    ],
+    "sampling_seconds": 0.039424165966920555
+  },
+  {
+    "epsilon": 4,
+    "state": [
+      3,
+      2
+    ],
+    "seed": 20260929,
+    "draws": 100000,
+    "empirical_mse": 0.0741075,
+    "expected_mse": 0.07472457376025807,
+    "standard_error": 0.000791947476948795,
+    "mean_coordinate_error": [
+      -0.00033,
+      -0.00066
+    ],
+    "sampling_seconds": 0.03786762501113117
+  },
+  {
+    "epsilon": 4,
+    "state": [
+      8,
+      0
+    ],
+    "seed": 20260930,
+    "draws": 100000,
+    "empirical_mse": 0.0481875,
+    "expected_mse": 0.0477611171306404,
+    "standard_error": 0.0005967637385993698,
+    "mean_coordinate_error": [
+      0.00117,
+      -0.00026
+    ],
+    "sampling_seconds": 0.03650045790709555
+  }
+]

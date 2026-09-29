@@ -1,0 +1,82 @@
+[
+  {
+    "epsilon": 0.25,
+    "workload": "balanced",
+    "max": 339.9921429205041,
+    "scalar_epsilon": 0.140625,
+    "range_radius": 30.49991871758901,
+    "steps": 65
+  },
+  {
+    "epsilon": 0.25,
+    "workload": "skew",
+    "max": 769.4436680175894,
+    "scalar_epsilon": 0.140625,
+    "range_radius": 30.49991871758901,
+    "steps": 65
+  },
+  {
+    "epsilon": 0.5,
+    "workload": "balanced",
+    "max": 71.19056249474488,
+    "scalar_epsilon": 0.2890625,
+    "range_radius": 17.589943423893907,
+    "steps": 65
+  },
+  {
+    "epsilon": 0.5,
+    "workload": "skew",
+    "max": 160.54024752632526,
+    "scalar_epsilon": 0.2890625,
+    "range_radius": 17.589943423893907,
+    "steps": 65
+  },
+  {
+    "epsilon": 1,
+    "workload": "balanced",
+    "max": 13.833308596910639,
+    "scalar_epsilon": 0.5625,
+    "range_radius": 12.721077149741411,
+    "steps": 65
+  },
+  {
+    "epsilon": 1,
+    "workload": "skew",
+    "max": 31.953480525424357,
+    "scalar_epsilon": 0.5625,
+    "range_radius": 12.721077149741411,
+    "steps": 65
+  },
+  {
+    "epsilon": 2,
+    "workload": "balanced",
+    "max": 2.350255425495966,
+    "scalar_epsilon": 1.125,
+    "range_radius": 11.516552214282594,
+    "steps": 65
+  },
+  {
+    "epsilon": 2,
+    "workload": "skew",
+    "max": 5.483252461934869,
+    "scalar_epsilon": 1.125,
+    "range_radius": 11.516552214282594,
+    "steps": 65
+  },
+  {
+    "epsilon": 4,
+    "workload": "balanced",
+    "max": 0.3126369567658314,
+    "scalar_epsilon": 2.6875,
+    "range_radius": 11.347043237587359,
+    "steps": 65
+  },
+  {
+    "epsilon": 4,
+    "workload": "skew",
+    "max": 0.7294862320603402,
+    "scalar_epsilon": 2.6875,
+    "range_radius": 11.347043237587359,
+    "steps": 65
+  }
+]

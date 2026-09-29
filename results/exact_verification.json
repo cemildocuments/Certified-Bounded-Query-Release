@@ -1,0 +1,297 @@
+[
+  {
+    "id": "box_n8_e0.25_balanced",
+    "verified": true,
+    "relative_gap": 5.8441958747232585e-06
+  },
+  {
+    "id": "box_n8_e0.25_skew",
+    "verified": true,
+    "relative_gap": 4.9545520146583764e-06
+  },
+  {
+    "id": "box_n8_e0.5_balanced",
+    "verified": true,
+    "relative_gap": 3.4844872998410906e-06
+  },
+  {
+    "id": "box_n8_e0.5_skew",
+    "verified": true,
+    "relative_gap": 3.22585901180836e-06
+  },
+  {
+    "id": "box_n8_e1_balanced",
+    "verified": true,
+    "relative_gap": 3.0722267333798196e-06
+  },
+  {
+    "id": "box_n8_e1_skew",
+    "verified": true,
+    "relative_gap": 3.2859969586194154e-06
+  },
+  {
+    "id": "box_n8_e2_balanced",
+    "verified": true,
+    "relative_gap": 8.712892822095165e-06
+  },
+  {
+    "id": "box_n8_e2_skew",
+    "verified": true,
+    "relative_gap": 5.715866933246647e-06
+  },
+  {
+    "id": "box_n8_e4_balanced",
+    "verified": true,
+    "relative_gap": 8.973294221438908e-05
+  },
+  {
+    "id": "box_n8_e4_skew",
+    "verified": true,
+    "relative_gap": 6.17320296697469e-05
+  },
+  {
+    "id": "core_n4_e0.25_balanced",
+    "verified": true,
+    "relative_gap": 3.91633343560052e-06
+  },
+  {
+    "id": "core_n4_e0.25_skew",
+    "verified": true,
+    "relative_gap": 3.227208848268311e-06
+  },
+  {
+    "id": "core_n4_e0.5_balanced",
+    "verified": true,
+    "relative_gap": 2.3834464813311482e-06
+  },
+  {
+    "id": "core_n4_e0.5_skew",
+    "verified": true,
+    "relative_gap": 2.0863390850141413e-06
+  },
+  {
+    "id": "core_n4_e1_balanced",
+    "verified": true,
+    "relative_gap": 1.5337027621639054e-06
+  },
+  {
+    "id": "core_n4_e1_skew",
+    "verified": true,
+    "relative_gap": 1.6312460480270228e-06
+  },
+  {
+    "id": "core_n4_e2_balanced",
+    "verified": true,
+    "relative_gap": 2.9604757538948326e-06
+  },
+  {
+    "id": "core_n4_e2_skew",
+    "verified": true,
+    "relative_gap": 2.8447847911535805e-06
+  },
+  {
+    "id": "core_n4_e4_balanced",
+    "verified": true,
+    "relative_gap": 1.715234272937262e-05
+  },
+  {
+    "id": "core_n4_e4_skew",
+    "verified": true,
+    "relative_gap": 2.0959925201613443e-05
+  },
+  {
+    "id": "core_n6_e0.25_balanced",
+    "verified": true,
+    "relative_gap": 5.18396656274554e-06
+  },
+  {
+    "id": "core_n6_e0.25_skew",
+    "verified": true,
+    "relative_gap": 3.934929412685788e-06
+  },
+  {
+    "id": "core_n6_e0.5_balanced",
+    "verified": true,
+    "relative_gap": 2.7314286772747825e-06
+  },
+  {
+    "id": "core_n6_e0.5_skew",
+    "verified": true,
+    "relative_gap": 2.453152106048053e-06
+  },
+  {
+    "id": "core_n6_e1_balanced",
+    "verified": true,
+    "relative_gap": 2.2166211684824067e-06
+  },
+  {
+    "id": "core_n6_e1_skew",
+    "verified": true,
+    "relative_gap": 2.2149785743733907e-06
+  },
+  {
+    "id": "core_n6_e2_balanced",
+    "verified": true,
+    "relative_gap": 5.008739315389105e-06
+  },
+  {
+    "id": "core_n6_e2_skew",
+    "verified": true,
+    "relative_gap": 4.93343235119075e-06
+  },
+  {
+    "id": "core_n6_e4_balanced",
+    "verified": true,
+    "relative_gap": 4.565825858392314e-05
+  },
+  {
+    "id": "core_n6_e4_skew",
+    "verified": true,
+    "relative_gap": 4.3980316701713075e-05
+  },
+  {
+    "id": "core_n8_e0.25_balanced",
+    "verified": true,
+    "relative_gap": 5.5176013650035415e-06
+  },
+  {
+    "id": "core_n8_e0.25_skew",
+    "verified": true,
+    "relative_gap": 4.737016808438768e-06
+  },
+  {
+    "id": "core_n8_e0.5_balanced",
+    "verified": true,
+    "relative_gap": 3.7690679482851374e-06
+  },
+  {
+    "id": "core_n8_e0.5_skew",
+    "verified": true,
+    "relative_gap": 3.015054906807637e-06
+  },
+  {
+    "id": "core_n8_e1_balanced",
+    "verified": true,
+    "relative_gap": 3.848010695424354e-06
+  },
+  {
+    "id": "core_n8_e1_skew",
+    "verified": true,
+    "relative_gap": 3.1972022311462134e-06
+  },
+  {
+    "id": "core_n8_e2_balanced",
+    "verified": true,
+    "relative_gap": 7.755812367666791e-06
+  },
+  {
+    "id": "core_n8_e2_skew",
+    "verified": true,
+    "relative_gap": 7.513382488869968e-06
+  },
+  {
+    "id": "core_n8_e4_balanced",
+    "verified": true,
+    "relative_gap": 9.315914080782626e-05
+  },
+  {
+    "id": "core_n8_e4_skew",
+    "verified": true,
+    "relative_gap": 5.59466290488899e-05
+  },
+  {
+    "id": "dim3_n2_e0.5",
+    "verified": true,
+    "relative_gap": 2.0794151457654253e-06
+  },
+  {
+    "id": "dim3_n2_e1",
+    "verified": true,
+    "relative_gap": 1.3213313535987715e-06
+  },
+  {
+    "id": "dim3_n2_e2",
+    "verified": true,
+    "relative_gap": 1.220986184800414e-06
+  },
+  {
+    "id": "dim3_n3_e0.5",
+    "verified": true,
+    "relative_gap": 2.7089310681678307e-06
+  },
+  {
+    "id": "dim3_n3_e1",
+    "verified": true,
+    "relative_gap": 1.8138176036537819e-06
+  },
+  {
+    "id": "dim3_n3_e2",
+    "verified": true,
+    "relative_gap": 1.5522675562286796e-06
+  },
+  {
+    "id": "dim3_n4_e0.5",
+    "verified": true,
+    "relative_gap": 3.227763282095708e-06
+  },
+  {
+    "id": "dim3_n4_e1",
+    "verified": true,
+    "relative_gap": 1.9998976777949117e-06
+  },
+  {
+    "id": "dim3_n4_e2",
+    "verified": true,
+    "relative_gap": 2.207067350628198e-06
+  },
+  {
+    "id": "range_n8_e0.5_f1.25",
+    "verified": true,
+    "relative_gap": 3.939468343666852e-06
+  },
+  {
+    "id": "range_n8_e0.5_f1.5",
+    "verified": true,
+    "relative_gap": 4.371637042855082e-06
+  },
+  {
+    "id": "range_n8_e0.5_f2",
+    "verified": true,
+    "relative_gap": 3.6532836915544153e-06
+  },
+  {
+    "id": "range_n8_e1_f1.25",
+    "verified": true,
+    "relative_gap": 4.018074445172792e-06
+  },
+  {
+    "id": "range_n8_e1_f1.5",
+    "verified": true,
+    "relative_gap": 3.4758319968463247e-06
+  },
+  {
+    "id": "range_n8_e1_f2",
+    "verified": true,
+    "relative_gap": 6.437211413126385e-06
+  },
+  {
+    "id": "range_n8_e2_f1.25",
+    "verified": true,
+    "relative_gap": 7.060155306590412e-06
+  },
+  {
+    "id": "range_n8_e2_f1.5",
+    "verified": true,
+    "relative_gap": 9.934948267163899e-06
+  },
+  {
+    "id": "range_n8_e2_f2",
+    "verified": true,
+    "relative_gap": 1.117100708061738e-05
+  },
+  {
+    "id": "scale_n10_e1",
+    "verified": true,
+    "relative_gap": 8.427185373363368e-06
+  }
+]

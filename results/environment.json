@@ -1,0 +1,10 @@
+{
+  "python": "3.12.1 (v3.12.1:2305ca5144, Dec  7 2023, 17:23:38) [Clang 13.0.0 (clang-1300.0.29.30)]",
+  "platform": "macOS-14.8.1-arm64-arm-64bit",
+  "cpu_count": 12,
+  "numpy": "1.26.3",
+  "workers": 8,
+  "config_sha256": "8c76b200578afb5ab93d3354c0e1e90a698bbd04ebaa39f4ef4465a9bc7c86eb",
+  "start_time_unix": 1790634133.7483299,
+  "scipy": "1.11.4"
+}

@@ -1,0 +1,241 @@
+dataset,epsilon,workload,method,mean_mse,cohorts
+Adult,0.25,balanced,Bounded geometric + projection,56.85312652876402,6105
+Adult,0.25,balanced,Geometric + projection,85.22230897398438,6105
+Adult,0.25,balanced,Laplace + projection,85.33333333333336,6105
+Adult,0.25,balanced,Independent bounded geometric,128.40234200678015,6105
+Adult,0.25,balanced,CPM + projection,177.15025171158183,6105
+Adult,0.25,balanced,Independent CPM,396.6287709787266,6105
+Adult,0.25,balanced,Certified joint,44.52079792845654,6105
+Adult,0.25,balanced,K-norm,53.333333333333336,6105
+Adult,0.25,balanced,K-staircase,53.326796094743315,6105
+Adult,0.25,balanced,Hexagonal geometric,53.16638118212563,6105
+Adult,0.25,balanced,Optimized matrix Laplace,85.3333333333333,6105
+Adult,0.25,balanced,Joint CPM family,307.83345308102014,6105
+Adult,0.25,skew,Bounded geometric + projection,199.66898350051758,6105
+Adult,0.25,skew,Geometric + projection,298.2780814089454,6105
+Adult,0.25,skew,Laplace + projection,298.66666666666663,6105
+Adult,0.25,skew,Independent bounded geometric,300.3027261442463,6105
+Adult,0.25,skew,CPM + projection,617.2524610963197,6105
+Adult,0.25,skew,Independent CPM,922.6328996435766,6105
+Adult,0.25,skew,Certified joint,139.41198296778228,6105
+Adult,0.25,skew,K-norm,186.6666666666666,6105
+Adult,0.25,skew,K-staircase,186.64378633160163,6105
+Adult,0.25,skew,Hexagonal geometric,186.0823341374398,6105
+Adult,0.25,skew,Optimized matrix Laplace,253.42576540082106,6105
+Adult,0.25,skew,Joint CPM family,716.6046553729897,6105
+Adult,0.5,balanced,Bounded geometric + projection,16.23063973052742,6105
+Adult,0.5,balanced,Geometric + projection,21.222568585158204,6105
+Adult,0.5,balanced,Laplace + projection,21.33333333333334,6105
+Adult,0.5,balanced,Independent bounded geometric,36.842930026975154,6105
+Adult,0.5,balanced,CPM + projection,38.84200553960009,6105
+Adult,0.5,balanced,Independent CPM,86.72893973475135,6105
+Adult,0.5,balanced,Certified joint,11.618408373562266,6105
+Adult,0.5,balanced,K-norm,13.333333333333334,6105
+Adult,0.5,balanced,K-staircase,13.320553781275512,6105
+Adult,0.5,balanced,Hexagonal geometric,13.16557073908629,6105
+Adult,0.5,balanced,Optimized matrix Laplace,21.333333333333325,6105
+Adult,0.5,balanced,Joint CPM family,66.2343131251304,6105
+Adult,0.5,skew,Bounded geometric + projection,57.26484174175165,6105
+Adult,0.5,skew,Geometric + projection,74.27899004805373,6105
+Adult,0.5,skew,Laplace + projection,74.66666666666666,6105
+Adult,0.5,skew,Independent bounded geometric,86.43247101111803,6105
+Adult,0.5,skew,CPM + projection,135.00488852120247,6105
+Adult,0.5,skew,Independent CPM,201.40473708773652,6105
+Adult,0.5,skew,Certified joint,37.39395269563523,6105
+Adult,0.5,skew,K-norm,46.66666666666665,6105
+Adult,0.5,skew,K-staircase,46.62193823446431,6105
+Adult,0.5,skew,Hexagonal geometric,46.07949758680201,6105
+Adult,0.5,skew,Optimized matrix Laplace,63.356441350205266,6105
+Adult,0.5,skew,Joint CPM family,153.9153429125883,6105
+Adult,1.0,balanced,Bounded geometric + projection,4.506118602747995,6105
+Adult,1.0,balanced,Geometric + projection,5.223597452043685,6105
+Adult,1.0,balanced,Laplace + projection,5.333333333333335,6105
+Adult,1.0,balanced,Independent bounded geometric,10.295895983456834,6105
+Adult,1.0,balanced,CPM + projection,7.526121663101855,6105
+Adult,1.0,balanced,Independent CPM,16.802537861408137,6105
+Adult,1.0,balanced,Certified joint,2.9988350905822836,6105
+Adult,1.0,balanced,K-norm,3.3333333333333335,6105
+Adult,1.0,balanced,K-staircase,3.30902352800286,6105
+Adult,1.0,balanced,Hexagonal geometric,3.1629920673996486,6105
+Adult,1.0,balanced,Optimized matrix Laplace,5.333333333333331,6105
+Adult,1.0,balanced,Joint CPM family,12.531552280293822,6105
+Adult,1.0,skew,Bounded geometric + projection,15.991972253757565,6105
+Adult,1.0,skew,Geometric + projection,18.282591082152898,6105
+Adult,1.0,skew,Laplace + projection,18.666666666666664,6105
+Adult,1.0,skew,Independent bounded geometric,24.2454671707846,6105
+Adult,1.0,skew,CPM + projection,26.155658933867198,6105
+Adult,1.0,skew,Independent CPM,39.01608148125001,6105
+Adult,1.0,skew,Certified joint,9.795633244867902,6105
+Adult,1.0,skew,K-norm,11.666666666666663,6105
+Adult,1.0,skew,K-staircase,11.581582348010004,6105
+Adult,1.0,skew,Hexagonal geometric,11.070472235898762,6105
+Adult,1.0,skew,Optimized matrix Laplace,15.839110337551316,6105
+Adult,1.0,skew,Joint CPM family,29.121242936718993,6105
+Adult,2.0,balanced,Bounded geometric + projection,1.1390788710880526,6105
+Adult,2.0,balanced,Geometric + projection,1.227564792277057,6105
+Adult,2.0,balanced,Laplace + projection,1.3333333333333337,6105
+Adult,2.0,balanced,Independent bounded geometric,2.6108881941318915,6105
+Adult,2.0,balanced,CPM + projection,1.355490831381107,6105
+Adult,2.0,balanced,Independent CPM,3.044725377489847,6105
+Adult,2.0,balanced,Certified joint,0.6558742953428586,6105
+Adult,2.0,balanced,K-norm,0.8333333333333334,6105
+Adult,2.0,balanced,K-staircase,0.7906456777370086,6105
+Adult,2.0,balanced,Hexagonal geometric,0.6612330362732342,6105
+Adult,2.0,balanced,Optimized matrix Laplace,1.3333333333333328,6105
+Adult,2.0,balanced,Joint CPM family,2.3221685121498865,6105
+Adult,2.0,skew,Bounded geometric + projection,4.052784768905695,6105
+Adult,2.0,skew,Geometric + projection,4.296476772969698,6105
+Adult,2.0,skew,Laplace + projection,4.666666666666666,6105
+Adult,2.0,skew,Independent bounded geometric,6.15580855755238,6105
+Adult,2.0,skew,CPM + projection,4.736957722446794,6105
+Adult,2.0,skew,Independent CPM,7.09693983271114,6105
+Adult,2.0,skew,Certified joint,2.2782360130091885,6105
+Adult,2.0,skew,K-norm,2.9166666666666656,6105
+Adult,2.0,skew,K-staircase,2.767259872079529,6105
+Adult,2.0,skew,Hexagonal geometric,2.3143156269563185,6105
+Adult,2.0,skew,Optimized matrix Laplace,3.959777584387829,6105
+Adult,2.0,skew,Joint CPM family,5.415319679975393,6105
+Adult,4.0,balanced,Bounded geometric + projection,0.2310913615075708,6105
+Adult,4.0,balanced,Geometric + projection,0.24135388698877017,6105
+Adult,4.0,balanced,Laplace + projection,0.3333333333333334,6105
+Adult,4.0,balanced,Independent bounded geometric,0.5288818146710539,6105
+Adult,4.0,balanced,CPM + projection,0.2847905151062768,6105
+Adult,4.0,balanced,Independent CPM,0.6407752801745137,6105
+Adult,4.0,balanced,Certified joint,0.07464158883496848,6105
+Adult,4.0,balanced,K-norm,0.20833333333333334,6105
+Adult,4.0,balanced,K-staircase,0.15145119868717233,6105
+Adult,4.0,balanced,Hexagonal geometric,0.07472489340619168,6105
+Adult,4.0,balanced,Optimized matrix Laplace,0.3333333333333332,6105
+Adult,4.0,balanced,Joint CPM family,0.33198018298788273,6105
+Adult,4.0,skew,Bounded geometric + projection,0.8206400508120153,6105
+Adult,4.0,skew,Geometric + projection,0.8447386044606963,6105
+Adult,4.0,skew,Laplace + projection,1.1666666666666665,6105
+Adult,4.0,skew,Independent bounded geometric,1.2445249205910902,6105
+Adult,4.0,skew,CPM + projection,0.9967620200955747,6105
+Adult,4.0,skew,Independent CPM,1.495137432758922,6105
+Adult,4.0,skew,Certified joint,0.26138553620732874,6105
+Adult,4.0,skew,K-norm,0.7291666666666664,6105
+Adult,4.0,skew,K-staircase,0.5300791954051034,6105
+Adult,4.0,skew,Hexagonal geometric,0.26153712692167075,6105
+Adult,4.0,skew,Optimized matrix Laplace,0.9899443960969573,6105
+Adult,4.0,skew,Joint CPM family,0.7746203842444129,6105
+Bank Marketing,0.25,balanced,Bounded geometric + projection,56.37701666674623,5651
+Bank Marketing,0.25,balanced,Geometric + projection,85.22230897398438,5651
+Bank Marketing,0.25,balanced,Laplace + projection,85.33333333333337,5651
+Bank Marketing,0.25,balanced,Independent bounded geometric,128.2235224006078,5651
+Bank Marketing,0.25,balanced,CPM + projection,179.07427879937433,5651
+Bank Marketing,0.25,balanced,Independent CPM,397.3559520960572,5651
+Bank Marketing,0.25,balanced,Certified joint,44.255895193971455,5651
+Bank Marketing,0.25,balanced,K-norm,53.33333333333333,5651
+Bank Marketing,0.25,balanced,K-staircase,53.32679609474332,5651
+Bank Marketing,0.25,balanced,Hexagonal geometric,53.16638118212564,5651
+Bank Marketing,0.25,balanced,Optimized matrix Laplace,85.3333333333333,5651
+Bank Marketing,0.25,balanced,Joint CPM family,307.0053425412475,5651
+Bank Marketing,0.25,skew,Bounded geometric + projection,198.82679745832513,5651
+Bank Marketing,0.25,skew,Geometric + projection,298.2780814089454,5651
+Bank Marketing,0.25,skew,Laplace + projection,298.66666666666663,5651
+Bank Marketing,0.25,skew,Independent bounded geometric,299.8592785876908,5651
+Bank Marketing,0.25,skew,CPM + projection,620.6606880059983,5651
+Bank Marketing,0.25,skew,Independent CPM,924.437315415796,5651
+Bank Marketing,0.25,skew,Certified joint,139.13022839652055,5651
+Bank Marketing,0.25,skew,K-norm,186.6666666666666,5651
+Bank Marketing,0.25,skew,K-staircase,186.6437863316016,5651
+Bank Marketing,0.25,skew,Hexagonal geometric,186.08233413743983,5651
+Bank Marketing,0.25,skew,Optimized matrix Laplace,253.42576540082112,5651
+Bank Marketing,0.25,skew,Joint CPM family,718.1369428763065,5651
+Bank Marketing,0.5,balanced,Bounded geometric + projection,15.907201606949563,5651
+Bank Marketing,0.5,balanced,Geometric + projection,21.222568585158207,5651
+Bank Marketing,0.5,balanced,Laplace + projection,21.333333333333343,5651
+Bank Marketing,0.5,balanced,Independent bounded geometric,36.72366320697472,5651
+Bank Marketing,0.5,balanced,CPM + projection,39.49559763104603,5651
+Bank Marketing,0.5,balanced,Independent CPM,86.97596319421908,5651
+Bank Marketing,0.5,balanced,Certified joint,11.600881292113124,5651
+Bank Marketing,0.5,balanced,K-norm,13.333333333333332,5651
+Bank Marketing,0.5,balanced,K-staircase,13.32055378127551,5651
+Bank Marketing,0.5,balanced,Hexagonal geometric,13.165570739086291,5651
+Bank Marketing,0.5,balanced,Optimized matrix Laplace,21.333333333333325,5651
+Bank Marketing,0.5,balanced,Joint CPM family,66.15699686268044,5651
+Bank Marketing,0.5,skew,Bounded geometric + projection,56.69506755383427,5651
+Bank Marketing,0.5,skew,Geometric + projection,74.27899004805373,5651
+Bank Marketing,0.5,skew,Laplace + projection,74.66666666666666,5651
+Bank Marketing,0.5,skew,Independent bounded geometric,86.13724641572644,5651
+Bank Marketing,0.5,skew,CPM + projection,136.16266336135556,5651
+Bank Marketing,0.5,skew,Independent CPM,202.01769720970452,5651
+Bank Marketing,0.5,skew,Certified joint,37.24135768438992,5651
+Bank Marketing,0.5,skew,K-norm,46.66666666666665,5651
+Bank Marketing,0.5,skew,K-staircase,46.6219382344643,5651
+Bank Marketing,0.5,skew,Hexagonal geometric,46.079497586802006,5651
+Bank Marketing,0.5,skew,Optimized matrix Laplace,63.35644135020528,5651
+Bank Marketing,0.5,skew,Joint CPM family,154.40617687930956,5651
+Bank Marketing,1.0,balanced,Bounded geometric + projection,4.342092982980754,5651
+Bank Marketing,1.0,balanced,Geometric + projection,5.223597452043685,5651
+Bank Marketing,1.0,balanced,Laplace + projection,5.333333333333336,5651
+Bank Marketing,1.0,balanced,Independent bounded geometric,10.239359139161582,5651
+Bank Marketing,1.0,balanced,CPM + projection,7.6549952329956925,5651
+Bank Marketing,1.0,balanced,Independent CPM,16.851245297568674,5651
+Bank Marketing,1.0,balanced,Certified joint,2.9773968212127113,5651
+Bank Marketing,1.0,balanced,K-norm,3.333333333333333,5651
+Bank Marketing,1.0,balanced,K-staircase,3.3090235280028604,5651
+Bank Marketing,1.0,balanced,Hexagonal geometric,3.1629920673996486,5651
+Bank Marketing,1.0,balanced,Optimized matrix Laplace,5.333333333333331,5651
+Bank Marketing,1.0,balanced,Joint CPM family,12.545016146314309,5651
+Bank Marketing,1.0,skew,Bounded geometric + projection,15.707222502108504,5651
+Bank Marketing,1.0,skew,Geometric + projection,18.28259108215289,5651
+Bank Marketing,1.0,skew,Laplace + projection,18.666666666666664,5651
+Bank Marketing,1.0,skew,Independent bounded geometric,24.10650937953094,5651
+Bank Marketing,1.0,skew,CPM + projection,26.383945932343128,5651
+Bank Marketing,1.0,skew,Independent CPM,39.13694334624875,5651
+Bank Marketing,1.0,skew,Certified joint,9.755276872668299,5651
+Bank Marketing,1.0,skew,K-norm,11.666666666666663,5651
+Bank Marketing,1.0,skew,K-staircase,11.581582348010006,5651
+Bank Marketing,1.0,skew,Hexagonal geometric,11.070472235898764,5651
+Bank Marketing,1.0,skew,Optimized matrix Laplace,15.83911033755132,5651
+Bank Marketing,1.0,skew,Joint CPM family,29.203375475659257,5651
+Bank Marketing,2.0,balanced,Bounded geometric + projection,1.0821108504228896,5651
+Bank Marketing,2.0,balanced,Geometric + projection,1.227564792277057,5651
+Bank Marketing,2.0,balanced,Laplace + projection,1.333333333333334,5651
+Bank Marketing,2.0,balanced,Independent bounded geometric,2.5948108318283865,5651
+Bank Marketing,2.0,balanced,CPM + projection,1.3605275000890509,5651
+Bank Marketing,2.0,balanced,Independent CPM,3.0466289735472554,5651
+Bank Marketing,2.0,balanced,Certified joint,0.6511877208690624,5651
+Bank Marketing,2.0,balanced,K-norm,0.8333333333333333,5651
+Bank Marketing,2.0,balanced,K-staircase,0.7906456777370084,5651
+Bank Marketing,2.0,balanced,Hexagonal geometric,0.6612330362732342,5651
+Bank Marketing,2.0,balanced,Optimized matrix Laplace,1.3333333333333328,5651
+Bank Marketing,2.0,balanced,Joint CPM family,2.3229214313378685,5651
+Bank Marketing,2.0,skew,Bounded geometric + projection,3.957682984608792,5651
+Bank Marketing,2.0,skew,Geometric + projection,4.296476772969698,5651
+Bank Marketing,2.0,skew,Laplace + projection,4.666666666666666,5651
+Bank Marketing,2.0,skew,Independent bounded geometric,6.117271660530326,5651
+Bank Marketing,2.0,skew,CPM + projection,4.745879691339263,5651
+Bank Marketing,2.0,skew,Independent CPM,7.10166338598839,5651
+Bank Marketing,2.0,skew,Certified joint,2.266912869144705,5651
+Bank Marketing,2.0,skew,K-norm,2.9166666666666656,5651
+Bank Marketing,2.0,skew,K-staircase,2.767259872079529,5651
+Bank Marketing,2.0,skew,Hexagonal geometric,2.314315626956319,5651
+Bank Marketing,2.0,skew,Optimized matrix Laplace,3.95977758438783,5651
+Bank Marketing,2.0,skew,Joint CPM family,5.417289674259014,5651
+Bank Marketing,4.0,balanced,Bounded geometric + projection,0.2179845365614522,5651
+Bank Marketing,4.0,balanced,Geometric + projection,0.2413538869887702,5651
+Bank Marketing,4.0,balanced,Laplace + projection,0.3333333333333335,5651
+Bank Marketing,4.0,balanced,Independent bounded geometric,0.5262475817419447,5651
+Bank Marketing,4.0,balanced,CPM + projection,0.2847938331005536,5651
+Bank Marketing,4.0,balanced,Independent CPM,0.6407765342019652,5651
+Bank Marketing,4.0,balanced,Certified joint,0.07419903329110834,5651
+Bank Marketing,4.0,balanced,K-norm,0.20833333333333331,5651
+Bank Marketing,4.0,balanced,K-staircase,0.15145119868717236,5651
+Bank Marketing,4.0,balanced,Hexagonal geometric,0.07472489340619166,5651
+Bank Marketing,4.0,balanced,Optimized matrix Laplace,0.3333333333333332,5651
+Bank Marketing,4.0,balanced,Joint CPM family,0.3319801939504657,5651
+Bank Marketing,4.0,skew,Bounded geometric + projection,0.7999028302858318,5651
+Bank Marketing,4.0,skew,Geometric + projection,0.8447386044606959,5651
+Bank Marketing,4.0,skew,Laplace + projection,1.1666666666666665,5651
+Bank Marketing,4.0,skew,Independent bounded geometric,1.2385912324864883,5651
+Bank Marketing,4.0,skew,CPM + projection,0.9967678975998222,5651
+Bank Marketing,4.0,skew,Independent CPM,1.4951405444828905,5651
+Bank Marketing,4.0,skew,Certified joint,0.26084157817994585,5651
+Bank Marketing,4.0,skew,K-norm,0.7291666666666664,5651
+Bank Marketing,4.0,skew,K-staircase,0.5300791954051033,5651
+Bank Marketing,4.0,skew,Hexagonal geometric,0.26153712692167075,5651
+Bank Marketing,4.0,skew,Optimized matrix Laplace,0.9899443960969575,5651
+Bank Marketing,4.0,skew,Joint CPM family,0.7746204114467925,5651

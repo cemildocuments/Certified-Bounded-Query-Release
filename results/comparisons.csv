@@ -1,0 +1,424 @@
+id,n,r,epsilon,workload,method,worst_mse,uniform_mse
+core_n4_e0.25_balanced,4,2,0.25,balanced,Bounded geometric + projection,49.8044191258015,49.411970510021476
+core_n4_e0.25_balanced,4,2,0.25,balanced,Geometric + projection,85.2223089739844,85.22230897398438
+core_n4_e0.25_balanced,4,2,0.25,balanced,Laplace + projection,85.33333333333334,85.33333333333333
+core_n4_e0.25_balanced,4,2,0.25,balanced,Independent bounded geometric,112.4219360245169,111.17693364754831
+core_n4_e0.25_balanced,4,2,0.25,balanced,CPM + projection,174.0602252614093,169.9947379948102
+core_n4_e0.25_balanced,4,2,0.25,balanced,Independent CPM,391.63550683817095,382.488160488323
+core_n4_e0.25_balanced,4,2,0.25,balanced,Certified joint,43.723497869221895,42.617988402822
+core_n4_e0.25_balanced,4,2,0.25,balanced,K-norm,53.33333333333333,53.33333333333334
+core_n4_e0.25_balanced,4,2,0.25,balanced,K-staircase,53.326796094743315,53.3267960947433
+core_n4_e0.25_balanced,4,2,0.25,balanced,Hexagonal geometric,53.16638118212566,53.16638118212565
+core_n4_e0.25_balanced,4,2,0.25,balanced,Optimized matrix Laplace,85.33333333333331,85.33333333333329
+core_n4_e0.25_balanced,4,2,0.25,balanced,Joint CPM family,350.374342086977,337.4476047996042
+core_n4_e0.25_skew,4,2,0.25,skew,Bounded geometric + projection,174.45336903229133,172.94189678507516
+core_n4_e0.25_skew,4,2,0.25,skew,Geometric + projection,298.27808140894535,298.27808140894547
+core_n4_e0.25_skew,4,2,0.25,skew,Laplace + projection,298.6666666666667,298.6666666666667
+core_n4_e0.25_skew,4,2,0.25,skew,Independent bounded geometric,262.31785072387277,259.4128451776127
+core_n4_e0.25_skew,4,2,0.25,skew,CPM + projection,609.2107884149326,594.9815829818357
+core_n4_e0.25_skew,4,2,0.25,skew,Independent CPM,913.8161826223989,892.4723744727536
+core_n4_e0.25_skew,4,2,0.25,skew,Certified joint,128.59103409041307,128.28054335643714
+core_n4_e0.25_skew,4,2,0.25,skew,K-norm,186.66666666666663,186.66666666666657
+core_n4_e0.25_skew,4,2,0.25,skew,K-staircase,186.6437863316016,186.64378633160155
+core_n4_e0.25_skew,4,2,0.25,skew,Hexagonal geometric,186.0823341374398,186.0823341374398
+core_n4_e0.25_skew,4,2,0.25,skew,Optimized matrix Laplace,253.4257654008211,253.4257654008211
+core_n4_e0.25_skew,4,2,0.25,skew,Joint CPM family,808.0371239633689,788.1696618301526
+core_n4_e0.5_balanced,4,2,0.5,balanced,Bounded geometric + projection,13.853552513301032,13.525805796597837
+core_n4_e0.5_balanced,4,2,0.5,balanced,Geometric + projection,21.22256858515821,21.22256858515821
+core_n4_e0.5_balanced,4,2,0.5,balanced,Laplace + projection,21.333333333333336,21.333333333333332
+core_n4_e0.5_balanced,4,2,0.5,balanced,Independent bounded geometric,31.46884827838987,30.433063042345136
+core_n4_e0.5_balanced,4,2,0.5,balanced,CPM + projection,42.115045148046306,40.42037206540343
+core_n4_e0.5_balanced,4,2,0.5,balanced,Independent CPM,94.75885158310416,90.94583714715769
+core_n4_e0.5_balanced,4,2,0.5,balanced,Certified joint,10.642199490820266,10.525115954120132
+core_n4_e0.5_balanced,4,2,0.5,balanced,K-norm,13.333333333333332,13.333333333333336
+core_n4_e0.5_balanced,4,2,0.5,balanced,K-staircase,13.320553781275512,13.320553781275516
+core_n4_e0.5_balanced,4,2,0.5,balanced,Hexagonal geometric,13.165570739086286,13.165570739086288
+core_n4_e0.5_balanced,4,2,0.5,balanced,Optimized matrix Laplace,21.33333333333333,21.33333333333332
+core_n4_e0.5_balanced,4,2,0.5,balanced,Joint CPM family,76.270025517567,70.74761652804179
+core_n4_e0.5_skew,4,2,0.5,skew,Bounded geometric + projection,48.601092891206015,47.34032028809243
+core_n4_e0.5_skew,4,2,0.5,skew,Geometric + projection,74.27899004805373,74.27899004805371
+core_n4_e0.5_skew,4,2,0.5,skew,Laplace + projection,74.66666666666667,74.66666666666667
+core_n4_e0.5_skew,4,2,0.5,skew,Independent bounded geometric,73.42731264957636,71.01048043213862
+core_n4_e0.5_skew,4,2,0.5,skew,CPM + projection,147.40265801816204,141.47130222891198
+core_n4_e0.5_skew,4,2,0.5,skew,Independent CPM,221.10398702724305,212.2069533433679
+core_n4_e0.5_skew,4,2,0.5,skew,Certified joint,33.70000071084475,33.32117641457511
+core_n4_e0.5_skew,4,2,0.5,skew,K-norm,46.66666666666666,46.66666666666664
+core_n4_e0.5_skew,4,2,0.5,skew,K-staircase,46.621938234464295,46.62193823446431
+core_n4_e0.5_skew,4,2,0.5,skew,Hexagonal geometric,46.079497586802006,46.07949758680202
+core_n4_e0.5_skew,4,2,0.5,skew,Optimized matrix Laplace,63.35644135020527,63.35644135020527
+core_n4_e0.5_skew,4,2,0.5,skew,Joint CPM family,173.0328206143052,165.48865292043232
+core_n4_e1_balanced,4,2,1.0,balanced,Bounded geometric + projection,3.9383942558258465,3.706539227812975
+core_n4_e1_balanced,4,2,1.0,balanced,Geometric + projection,5.223597452043685,5.223597452043686
+core_n4_e1_balanced,4,2,1.0,balanced,Laplace + projection,5.333333333333334,5.333333333333333
+core_n4_e1_balanced,4,2,1.0,balanced,Independent bounded geometric,9.06175331765833,8.339713262579192
+core_n4_e1_balanced,4,2,1.0,balanced,CPM + projection,9.613692536490353,9.043586672522876
+core_n4_e1_balanced,4,2,1.0,balanced,Independent CPM,21.630808207103293,20.348070013176468
+core_n4_e1_balanced,4,2,1.0,balanced,Certified joint,2.736288362441554,2.659752814392052
+core_n4_e1_balanced,4,2,1.0,balanced,K-norm,3.333333333333333,3.333333333333334
+core_n4_e1_balanced,4,2,1.0,balanced,K-staircase,3.309023528002859,3.30902352800286
+core_n4_e1_balanced,4,2,1.0,balanced,Hexagonal geometric,3.1629920673996477,3.1629920673996486
+core_n4_e1_balanced,4,2,1.0,balanced,Optimized matrix Laplace,5.333333333333332,5.33333333333333
+core_n4_e1_balanced,4,2,1.0,balanced,Joint CPM family,15.297778717435872,13.74725003461785
+core_n4_e1_skew,4,2,1.0,skew,Bounded geometric + projection,13.860709892361958,12.97288729734541
+core_n4_e1_skew,4,2,1.0,skew,Geometric + projection,18.282591082152898,18.282591082152898
+core_n4_e1_skew,4,2,1.0,skew,Laplace + projection,18.666666666666668,18.666666666666668
+core_n4_e1_skew,4,2,1.0,skew,Independent bounded geometric,21.144091074536103,19.459330946018113
+core_n4_e1_skew,4,2,1.0,skew,CPM + projection,33.64792387771624,31.652553353830065
+core_n4_e1_skew,4,2,1.0,skew,Independent CPM,50.47188581657434,47.47883003074507
+core_n4_e1_skew,4,2,1.0,skew,Certified joint,8.895876951216517,8.54998986816489
+core_n4_e1_skew,4,2,1.0,skew,K-norm,11.666666666666664,11.66666666666666
+core_n4_e1_skew,4,2,1.0,skew,K-staircase,11.581582348010008,11.58158234801001
+core_n4_e1_skew,4,2,1.0,skew,Hexagonal geometric,11.070472235898768,11.070472235898766
+core_n4_e1_skew,4,2,1.0,skew,Optimized matrix Laplace,15.839110337551318,15.839110337551318
+core_n4_e1_skew,4,2,1.0,skew,Joint CPM family,34.33816682642159,32.18997092918571
+core_n4_e2_balanced,4,2,2.0,balanced,Bounded geometric + projection,1.067636065961738,0.9455378974286561
+core_n4_e2_balanced,4,2,2.0,balanced,Geometric + projection,1.2275647922770567,1.227564792277057
+core_n4_e2_balanced,4,2,2.0,balanced,Laplace + projection,1.3333333333333335,1.3333333333333333
+core_n4_e2_balanced,4,2,2.0,balanced,Independent bounded geometric,2.488751915740176,2.1274602692144757
+core_n4_e2_balanced,4,2,2.0,balanced,CPM + projection,1.8761214169052194,1.7628697152916457
+core_n4_e2_balanced,4,2,2.0,balanced,Independent CPM,4.221273188036744,3.9664568594062017
+core_n4_e2_balanced,4,2,2.0,balanced,Certified joint,0.6415954166571161,0.6069548725237036
+core_n4_e2_balanced,4,2,2.0,balanced,K-norm,0.8333333333333333,0.8333333333333335
+core_n4_e2_balanced,4,2,2.0,balanced,K-staircase,0.7906456777370084,0.7906456777370087
+core_n4_e2_balanced,4,2,2.0,balanced,Hexagonal geometric,0.661233036273234,0.6612330362732342
+core_n4_e2_balanced,4,2,2.0,balanced,Optimized matrix Laplace,1.333333333333333,1.3333333333333326
+core_n4_e2_balanced,4,2,2.0,balanced,Joint CPM family,2.756159227146718,2.5640049847503925
+core_n4_e2_skew,4,2,2.0,skew,Bounded geometric + projection,3.7697055707998985,3.3093826410002953
+core_n4_e2_skew,4,2,2.0,skew,Geometric + projection,4.296476772969698,4.296476772969698
+core_n4_e2_skew,4,2,2.0,skew,Laplace + projection,4.666666666666667,4.666666666666667
+core_n4_e2_skew,4,2,2.0,skew,Independent bounded geometric,5.807087803393744,4.964073961500443
+core_n4_e2_skew,4,2,2.0,skew,CPM + projection,6.566424959168268,6.1700440035207595
+core_n4_e2_skew,4,2,2.0,skew,Independent CPM,9.849637438752401,9.255066005281138
+core_n4_e2_skew,4,2,2.0,skew,Certified joint,2.1621883801201998,2.1002958011917157
+core_n4_e2_skew,4,2,2.0,skew,K-norm,2.916666666666666,2.916666666666665
+core_n4_e2_skew,4,2,2.0,skew,K-staircase,2.7672598720795296,2.7672598720795287
+core_n4_e2_skew,4,2,2.0,skew,Hexagonal geometric,2.3143156269563194,2.3143156269563194
+core_n4_e2_skew,4,2,2.0,skew,Optimized matrix Laplace,3.9597775843878296,3.9597775843878296
+core_n4_e2_skew,4,2,2.0,skew,Joint CPM family,6.329772975792859,5.991117066157816
+core_n4_e4_balanced,4,2,4.0,balanced,Bounded geometric + projection,0.23118658287548566,0.1921847366793871
+core_n4_e4_balanced,4,2,4.0,balanced,Geometric + projection,0.24135388698877017,0.24135388698877017
+core_n4_e4_balanced,4,2,4.0,balanced,Laplace + projection,0.33333333333333337,0.3333333333333333
+core_n4_e4_balanced,4,2,4.0,balanced,Independent bounded geometric,0.5342856275325256,0.432415657528621
+core_n4_e4_balanced,4,2,4.0,balanced,CPM + projection,0.30599198891009577,0.30064227755628
+core_n4_e4_balanced,4,2,4.0,balanced,Independent CPM,0.6884819750477154,0.6764451245016299
+core_n4_e4_balanced,4,2,4.0,balanced,Certified joint,0.07467399651624818,0.07153783792455752
+core_n4_e4_balanced,4,2,4.0,balanced,K-norm,0.20833333333333331,0.20833333333333337
+core_n4_e4_balanced,4,2,4.0,balanced,K-staircase,0.15145119868717238,0.15145119868717233
+core_n4_e4_balanced,4,2,4.0,balanced,Hexagonal geometric,0.07472489340619165,0.07472489340619168
+core_n4_e4_balanced,4,2,4.0,balanced,Optimized matrix Laplace,0.33333333333333326,0.33333333333333315
+core_n4_e4_balanced,4,2,4.0,balanced,Joint CPM family,0.4461778051231809,0.4424438860957987
+core_n4_e4_skew,4,2,4.0,skew,Bounded geometric + projection,0.8145304938023646,0.6726465783778548
+core_n4_e4_skew,4,2,4.0,skew,Geometric + projection,0.8447386044606957,0.8447386044606959
+core_n4_e4_skew,4,2,4.0,skew,Laplace + projection,1.1666666666666667,1.1666666666666667
+core_n4_e4_skew,4,2,4.0,skew,Independent bounded geometric,1.2466664642425598,1.0089698675667822
+core_n4_e4_skew,4,2,4.0,skew,CPM + projection,1.070971961185335,1.05224797144698
+core_n4_e4_skew,4,2,4.0,skew,Independent CPM,1.6064579417780025,1.57837195717047
+core_n4_e4_skew,4,2,4.0,skew,Certified joint,0.2611400768204804,0.24366225911779413
+core_n4_e4_skew,4,2,4.0,skew,K-norm,0.7291666666666665,0.7291666666666663
+core_n4_e4_skew,4,2,4.0,skew,K-staircase,0.5300791954051033,0.5300791954051033
+core_n4_e4_skew,4,2,4.0,skew,Hexagonal geometric,0.2615371269216708,0.26153712692167075
+core_n4_e4_skew,4,2,4.0,skew,Optimized matrix Laplace,0.9899443960969574,0.9899443960969574
+core_n4_e4_skew,4,2,4.0,skew,Joint CPM family,1.0407493045439613,1.0323967542854882
+core_n6_e0.25_balanced,6,2,0.25,balanced,Bounded geometric + projection,53.86471574601586,53.126893664996366
+core_n6_e0.25_balanced,6,2,0.25,balanced,Geometric + projection,85.2223089739844,85.22230897398443
+core_n6_e0.25_balanced,6,2,0.25,balanced,Laplace + projection,85.33333333333334,85.33333333333336
+core_n6_e0.25_balanced,6,2,0.25,balanced,Independent bounded geometric,121.74325218920526,119.5355107462418
+core_n6_e0.25_balanced,6,2,0.25,balanced,CPM + projection,184.98582177218708,178.6475248565684
+core_n6_e0.25_balanced,6,2,0.25,balanced,Independent CPM,416.2180989874209,401.9569309272789
+core_n6_e0.25_balanced,6,2,0.25,balanced,Certified joint,43.89846537402938,43.52976124131276
+core_n6_e0.25_balanced,6,2,0.25,balanced,K-norm,53.33333333333333,53.33333333333332
+core_n6_e0.25_balanced,6,2,0.25,balanced,K-staircase,53.326796094743315,53.32679609474331
+core_n6_e0.25_balanced,6,2,0.25,balanced,Hexagonal geometric,53.16638118212566,53.166381182125654
+core_n6_e0.25_balanced,6,2,0.25,balanced,Optimized matrix Laplace,85.33333333333331,85.33333333333334
+core_n6_e0.25_balanced,6,2,0.25,balanced,Joint CPM family,335.9645571162003,313.7017636978555
+core_n6_e0.25_skew,6,2,0.25,skew,Bounded geometric + projection,188.5749913351617,185.94412782748722
+core_n6_e0.25_skew,6,2,0.25,skew,Geometric + projection,298.27808140894535,298.2780814089454
+core_n6_e0.25_skew,6,2,0.25,skew,Laplace + projection,298.6666666666667,298.6666666666667
+core_n6_e0.25_skew,6,2,0.25,skew,Independent bounded geometric,284.06758844147896,278.9161917412308
+core_n6_e0.25_skew,6,2,0.25,skew,CPM + projection,647.4503762026549,625.2663369979895
+core_n6_e0.25_skew,6,2,0.25,skew,Independent CPM,971.1755643039821,937.8995054969843
+core_n6_e0.25_skew,6,2,0.25,skew,Certified joint,134.697039074581,134.26749971267301
+core_n6_e0.25_skew,6,2,0.25,skew,K-norm,186.66666666666663,186.66666666666669
+core_n6_e0.25_skew,6,2,0.25,skew,K-staircase,186.6437863316016,186.64378633160158
+core_n6_e0.25_skew,6,2,0.25,skew,Hexagonal geometric,186.0823341374398,186.0823341374398
+core_n6_e0.25_skew,6,2,0.25,skew,Optimized matrix Laplace,253.4257654008211,253.42576540082115
+core_n6_e0.25_skew,6,2,0.25,skew,Joint CPM family,761.8002712784496,733.1995057760714
+core_n6_e0.5_balanced,6,2,0.5,balanced,Bounded geometric + projection,15.40980827133134,14.856256921709056
+core_n6_e0.5_balanced,6,2,0.5,balanced,Geometric + projection,21.22256858515821,21.22256858515821
+core_n6_e0.5_balanced,6,2,0.5,balanced,Laplace + projection,21.333333333333336,21.33333333333334
+core_n6_e0.5_balanced,6,2,0.5,balanced,Independent bounded geometric,35.070398674128654,33.42657807384537
+core_n6_e0.5_balanced,6,2,0.5,balanced,CPM + projection,43.32158597306614,40.92679965367954
+core_n6_e0.5_balanced,6,2,0.5,balanced,Independent CPM,97.4735684393988,92.08529922077894
+core_n6_e0.5_balanced,6,2,0.5,balanced,Certified joint,11.200622433447911,11.06510110860943
+core_n6_e0.5_balanced,6,2,0.5,balanced,K-norm,13.333333333333332,13.33333333333333
+core_n6_e0.5_balanced,6,2,0.5,balanced,K-staircase,13.320553781275512,13.320553781275512
+core_n6_e0.5_balanced,6,2,0.5,balanced,Hexagonal geometric,13.165570739086286,13.165570739086283
+core_n6_e0.5_balanced,6,2,0.5,balanced,Optimized matrix Laplace,21.33333333333333,21.333333333333336
+core_n6_e0.5_balanced,6,2,0.5,balanced,Joint CPM family,77.72800475116951,71.01571351623487
+core_n6_e0.5_skew,6,2,0.5,skew,Bounded geometric + projection,53.96472325373553,51.99689922598168
+core_n6_e0.5_skew,6,2,0.5,skew,Geometric + projection,74.27899004805373,74.27899004805371
+core_n6_e0.5_skew,6,2,0.5,skew,Laplace + projection,74.66666666666667,74.66666666666667
+core_n6_e0.5_skew,6,2,0.5,skew,Independent bounded geometric,81.83093023963353,77.99534883897253
+core_n6_e0.5_skew,6,2,0.5,skew,CPM + projection,151.62555090573147,143.24379878787838
+core_n6_e0.5_skew,6,2,0.5,skew,Independent CPM,227.43832635859724,214.86569818181758
+core_n6_e0.5_skew,6,2,0.5,skew,Certified joint,35.81823258512214,35.46526948822095
+core_n6_e0.5_skew,6,2,0.5,skew,K-norm,46.66666666666666,46.66666666666667
+core_n6_e0.5_skew,6,2,0.5,skew,K-staircase,46.621938234464295,46.6219382344643
+core_n6_e0.5_skew,6,2,0.5,skew,Hexagonal geometric,46.079497586802006,46.07949758680201
+core_n6_e0.5_skew,6,2,0.5,skew,Optimized matrix Laplace,63.35644135020527,63.35644135020529
+core_n6_e0.5_skew,6,2,0.5,skew,Joint CPM family,176.35877518030435,165.98147427338648
+core_n6_e1_balanced,6,2,1.0,balanced,Bounded geometric + projection,4.405501906727741,4.078730293355634
+core_n6_e1_balanced,6,2,1.0,balanced,Geometric + projection,5.223597452043685,5.223597452043686
+core_n6_e1_balanced,6,2,1.0,balanced,Laplace + projection,5.333333333333334,5.333333333333335
+core_n6_e1_balanced,6,2,1.0,balanced,Independent bounded geometric,10.120713465522844,9.177143160050177
+core_n6_e1_balanced,6,2,1.0,balanced,CPM + projection,9.121258107741616,8.490453925066229
+core_n6_e1_balanced,6,2,1.0,balanced,Independent CPM,20.522830742418634,19.10352133139901
+core_n6_e1_balanced,6,2,1.0,balanced,Certified joint,2.9247894581655465,2.8362939652437498
+core_n6_e1_balanced,6,2,1.0,balanced,K-norm,3.333333333333333,3.3333333333333326
+core_n6_e1_balanced,6,2,1.0,balanced,K-staircase,3.309023528002859,3.309023528002858
+core_n6_e1_balanced,6,2,1.0,balanced,Hexagonal geometric,3.1629920673996477,3.162992067399647
+core_n6_e1_balanced,6,2,1.0,balanced,Optimized matrix Laplace,5.333333333333332,5.333333333333334
+core_n6_e1_balanced,6,2,1.0,balanced,Joint CPM family,15.713835000824469,14.378691633855325
+core_n6_e1_skew,6,2,1.0,skew,Bounded geometric + projection,15.42476006374698,14.27555602674472
+core_n6_e1_skew,6,2,1.0,skew,Geometric + projection,18.282591082152898,18.2825910821529
+core_n6_e1_skew,6,2,1.0,skew,Laplace + projection,18.666666666666668,18.666666666666668
+core_n6_e1_skew,6,2,1.0,skew,Independent bounded geometric,23.61499808621997,21.413334040117082
+core_n6_e1_skew,6,2,1.0,skew,CPM + projection,31.924403377095654,29.716588737731797
+core_n6_e1_skew,6,2,1.0,skew,Independent CPM,47.88660506564348,44.5748831065977
+core_n6_e1_skew,6,2,1.0,skew,Certified joint,9.52450125698366,9.233608229633138
+core_n6_e1_skew,6,2,1.0,skew,K-norm,11.666666666666664,11.666666666666668
+core_n6_e1_skew,6,2,1.0,skew,K-staircase,11.581582348010008,11.581582348010004
+core_n6_e1_skew,6,2,1.0,skew,Hexagonal geometric,11.070472235898768,11.070472235898766
+core_n6_e1_skew,6,2,1.0,skew,Optimized matrix Laplace,15.839110337551318,15.839110337551322
+core_n6_e1_skew,6,2,1.0,skew,Joint CPM family,36.04837982514607,33.58457132215008
+core_n6_e2_balanced,6,2,2.0,balanced,Bounded geometric + projection,1.1586199508587038,1.024935400741298
+core_n6_e2_balanced,6,2,2.0,balanced,Geometric + projection,1.2275647922770567,1.227564792277057
+core_n6_e2_balanced,6,2,2.0,balanced,Laplace + projection,1.3333333333333335,1.3333333333333337
+core_n6_e2_balanced,6,2,2.0,balanced,Independent bounded geometric,2.6614907845848323,2.30610465166792
+core_n6_e2_balanced,6,2,2.0,balanced,CPM + projection,1.5699482883266933,1.508568866972287
+core_n6_e2_balanced,6,2,2.0,balanced,Independent CPM,3.5323836487350593,3.3942799506876455
+core_n6_e2_balanced,6,2,2.0,balanced,Certified joint,0.6542791769202031,0.626230398715722
+core_n6_e2_balanced,6,2,2.0,balanced,K-norm,0.8333333333333333,0.8333333333333331
+core_n6_e2_balanced,6,2,2.0,balanced,K-staircase,0.7906456777370084,0.7906456777370083
+core_n6_e2_balanced,6,2,2.0,balanced,Hexagonal geometric,0.661233036273234,0.6612330362732342
+core_n6_e2_balanced,6,2,2.0,balanced,Optimized matrix Laplace,1.333333333333333,1.3333333333333335
+core_n6_e2_balanced,6,2,2.0,balanced,Joint CPM family,2.601940972465591,2.5217912190754754
+core_n6_e2_skew,6,2,2.0,skew,Bounded geometric + projection,4.055169828005463,3.5872739025945424
+core_n6_e2_skew,6,2,2.0,skew,Geometric + projection,4.296476772969698,4.296476772969698
+core_n6_e2_skew,6,2,2.0,skew,Laplace + projection,4.666666666666667,4.666666666666667
+core_n6_e2_skew,6,2,2.0,skew,Independent bounded geometric,6.210145164031275,5.380910853891813
+core_n6_e2_skew,6,2,2.0,skew,CPM + projection,5.494819009143426,5.279991034403003
+core_n6_e2_skew,6,2,2.0,skew,Independent CPM,8.242228513715139,7.919986551604505
+core_n6_e2_skew,6,2,2.0,skew,Certified joint,2.2472553458011753,2.1736922186873415
+core_n6_e2_skew,6,2,2.0,skew,K-norm,2.916666666666666,2.916666666666667
+core_n6_e2_skew,6,2,2.0,skew,K-staircase,2.7672598720795296,2.7672598720795305
+core_n6_e2_skew,6,2,2.0,skew,Hexagonal geometric,2.3143156269563194,2.3143156269563194
+core_n6_e2_skew,6,2,2.0,skew,Optimized matrix Laplace,3.9597775843878296,3.9597775843878305
+core_n6_e2_skew,6,2,2.0,skew,Joint CPM family,6.0610931310935605,5.884740759583131
+core_n6_e4_balanced,6,2,4.0,balanced,Bounded geometric + projection,0.23937142598622374,0.20623149998927984
+core_n6_e4_balanced,6,2,4.0,balanced,Geometric + projection,0.24135388698877017,0.24135388698877022
+core_n6_e4_balanced,6,2,4.0,balanced,Laplace + projection,0.33333333333333337,0.3333333333333334
+core_n6_e4_balanced,6,2,4.0,balanced,Independent bounded geometric,0.5418606249803641,0.46402087497587957
+core_n6_e4_balanced,6,2,4.0,balanced,CPM + projection,0.2833550323883838,0.2830054674023514
+core_n6_e4_balanced,6,2,4.0,balanced,Independent CPM,0.6375488228738635,0.6367623016552907
+core_n6_e4_balanced,6,2,4.0,balanced,Certified joint,0.07472153313796906,0.07314613562173924
+core_n6_e4_balanced,6,2,4.0,balanced,K-norm,0.20833333333333331,0.2083333333333333
+core_n6_e4_balanced,6,2,4.0,balanced,K-staircase,0.15145119868717238,0.15145119868717236
+core_n6_e4_balanced,6,2,4.0,balanced,Hexagonal geometric,0.07472489340619165,0.07472489340619164
+core_n6_e4_balanced,6,2,4.0,balanced,Optimized matrix Laplace,0.33333333333333326,0.33333333333333337
+core_n6_e4_balanced,6,2,4.0,balanced,Joint CPM family,0.3697556108842326,0.3697048764846595
+core_n6_e4_skew,6,2,4.0,skew,Bounded geometric + projection,0.837799990951783,0.7218102499624794
+core_n6_e4_skew,6,2,4.0,skew,Geometric + projection,0.8447386044606957,0.8447386044606955
+core_n6_e4_skew,6,2,4.0,skew,Laplace + projection,1.1666666666666667,1.1666666666666667
+core_n6_e4_skew,6,2,4.0,skew,Independent bounded geometric,1.2643414582875163,1.0827153749437188
+core_n6_e4_skew,6,2,4.0,skew,CPM + projection,0.9917426133593432,0.9905191359082297
+core_n6_e4_skew,6,2,4.0,skew,Independent CPM,1.4876139200390148,1.4857787038623447
+core_n6_e4_skew,6,2,4.0,skew,Certified joint,0.261480611402363,0.25629580195686225
+core_n6_e4_skew,6,2,4.0,skew,K-norm,0.7291666666666665,0.7291666666666667
+core_n6_e4_skew,6,2,4.0,skew,K-staircase,0.5300791954051033,0.5300791954051032
+core_n6_e4_skew,6,2,4.0,skew,Hexagonal geometric,0.2615371269216708,0.2615371269216708
+core_n6_e4_skew,6,2,4.0,skew,Optimized matrix Laplace,0.9899443960969574,0.9899443960969576
+core_n6_e4_skew,6,2,4.0,skew,Joint CPM family,0.8627626360715057,0.8626447371304052
+core_n8_e0.25_balanced,8,2,0.25,balanced,Bounded geometric + projection,57.36040296202282,56.311881084709135
+core_n8_e0.25_balanced,8,2,0.25,balanced,Geometric + projection,85.2223089739844,85.22230897398443
+core_n8_e0.25_balanced,8,2,0.25,balanced,Laplace + projection,85.33333333333334,85.33333333333336
+core_n8_e0.25_balanced,8,2,0.25,balanced,Independent bounded geometric,129.96928483255442,126.70173244059555
+core_n8_e0.25_balanced,8,2,0.25,balanced,CPM + projection,187.5916027272507,179.33396731108428
+core_n8_e0.25_balanced,8,2,0.25,balanced,Independent CPM,422.08110613631396,403.5014264499395
+core_n8_e0.25_balanced,8,2,0.25,balanced,Certified joint,44.63273211510767,44.318299458241576
+core_n8_e0.25_balanced,8,2,0.25,balanced,K-norm,53.33333333333333,53.33333333333334
+core_n8_e0.25_balanced,8,2,0.25,balanced,K-staircase,53.326796094743315,53.32679609474331
+core_n8_e0.25_balanced,8,2,0.25,balanced,Hexagonal geometric,53.16638118212566,53.166381182125676
+core_n8_e0.25_balanced,8,2,0.25,balanced,Optimized matrix Laplace,85.33333333333331,85.33333333333333
+core_n8_e0.25_balanced,8,2,0.25,balanced,Joint CPM family,339.9921429205041,313.55766457354343
+core_n8_e0.25_skew,8,2,0.25,skew,Bounded geometric + projection,201.04480104073735,197.09158379648204
+core_n8_e0.25_skew,8,2,0.25,skew,Geometric + projection,298.27808140894535,298.27808140894535
+core_n8_e0.25_skew,8,2,0.25,skew,Laplace + projection,298.6666666666667,298.66666666666663
+core_n8_e0.25_skew,8,2,0.25,skew,Independent bounded geometric,303.2616646092937,295.63737569472295
+core_n8_e0.25_skew,8,2,0.25,skew,CPM + projection,656.5706095453772,627.6688855887949
+core_n8_e0.25_skew,8,2,0.25,skew,Independent CPM,984.855914318066,941.5033283831924
+core_n8_e0.25_skew,8,2,0.25,skew,Certified joint,139.54426106368206,139.06137539395547
+core_n8_e0.25_skew,8,2,0.25,skew,K-norm,186.66666666666663,186.66666666666663
+core_n8_e0.25_skew,8,2,0.25,skew,K-staircase,186.6437863316016,186.64378633160163
+core_n8_e0.25_skew,8,2,0.25,skew,Hexagonal geometric,186.0823341374398,186.0823341374398
+core_n8_e0.25_skew,8,2,0.25,skew,Optimized matrix Laplace,253.4257654008211,253.42576540082115
+core_n8_e0.25_skew,8,2,0.25,skew,Joint CPM family,769.4436680175894,732.629189510362
+core_n8_e0.5_balanced,8,2,0.5,balanced,Bounded geometric + projection,16.57241880876323,15.861222909898816
+core_n8_e0.5_balanced,8,2,0.5,balanced,Geometric + projection,21.22256858515821,21.222568585158214
+core_n8_e0.5_balanced,8,2,0.5,balanced,Laplace + projection,21.333333333333336,21.33333333333334
+core_n8_e0.5_balanced,8,2,0.5,balanced,Independent bounded geometric,37.87528894260115,35.68775154727233
+core_n8_e0.5_balanced,8,2,0.5,balanced,CPM + projection,42.38893296653259,39.58381383058391
+core_n8_e0.5_balanced,8,2,0.5,balanced,Independent CPM,95.3750991746983,89.06358111881379
+core_n8_e0.5_balanced,8,2,0.5,balanced,Certified joint,11.645559625193046,11.533140802951309
+core_n8_e0.5_balanced,8,2,0.5,balanced,K-norm,13.333333333333332,13.333333333333336
+core_n8_e0.5_balanced,8,2,0.5,balanced,K-staircase,13.320553781275512,13.320553781275514
+core_n8_e0.5_balanced,8,2,0.5,balanced,Hexagonal geometric,13.165570739086286,13.16557073908629
+core_n8_e0.5_balanced,8,2,0.5,balanced,Optimized matrix Laplace,21.33333333333333,21.333333333333332
+core_n8_e0.5_balanced,8,2,0.5,balanced,Joint CPM family,75.16465326578621,68.08249260879839
+core_n8_e0.5_skew,8,2,0.5,skew,Bounded geometric + projection,58.188217068941654,55.51428018464584
+core_n8_e0.5_skew,8,2,0.5,skew,Geometric + projection,74.27899004805373,74.27899004805374
+core_n8_e0.5_skew,8,2,0.5,skew,Laplace + projection,74.66666666666667,74.66666666666666
+core_n8_e0.5_skew,8,2,0.5,skew,Independent bounded geometric,88.37567419940268,83.27142027696875
+core_n8_e0.5_skew,8,2,0.5,skew,CPM + projection,148.36126538286405,138.54334840704365
+core_n8_e0.5_skew,8,2,0.5,skew,Independent CPM,222.54189807429606,207.8150226105655
+core_n8_e0.5_skew,8,2,0.5,skew,Certified joint,37.45052632581188,37.14682036179158
+core_n8_e0.5_skew,8,2,0.5,skew,K-norm,46.66666666666666,46.66666666666666
+core_n8_e0.5_skew,8,2,0.5,skew,K-staircase,46.621938234464295,46.621938234464295
+core_n8_e0.5_skew,8,2,0.5,skew,Hexagonal geometric,46.079497586802006,46.07949758680201
+core_n8_e0.5_skew,8,2,0.5,skew,Optimized matrix Laplace,63.35644135020527,63.35644135020529
+core_n8_e0.5_skew,8,2,0.5,skew,Joint CPM family,170.84113661503804,159.04844335129883
+core_n8_e1_balanced,8,2,1.0,balanced,Bounded geometric + projection,4.674075945278156,4.31561866471929
+core_n8_e1_balanced,8,2,1.0,balanced,Geometric + projection,5.223597452043685,5.223597452043686
+core_n8_e1_balanced,8,2,1.0,balanced,Laplace + projection,5.333333333333334,5.333333333333335
+core_n8_e1_balanced,8,2,1.0,balanced,Independent bounded geometric,10.763005262616504,9.710141995618399
+core_n8_e1_balanced,8,2,1.0,balanced,CPM + projection,8.225495486080497,7.672389471245674
+core_n8_e1_balanced,8,2,1.0,balanced,Independent CPM,18.507364843681117,17.262876310302765
+core_n8_e1_balanced,8,2,1.0,balanced,Certified joint,3.0236949266125746,2.9658111131702967
+core_n8_e1_balanced,8,2,1.0,balanced,K-norm,3.333333333333333,3.333333333333334
+core_n8_e1_balanced,8,2,1.0,balanced,K-staircase,3.309023528002859,3.3090235280028586
+core_n8_e1_balanced,8,2,1.0,balanced,Hexagonal geometric,3.1629920673996477,3.1629920673996472
+core_n8_e1_balanced,8,2,1.0,balanced,Optimized matrix Laplace,5.333333333333332,5.333333333333333
+core_n8_e1_balanced,8,2,1.0,balanced,Joint CPM family,13.833308596910639,12.842857781457239
+core_n8_e1_skew,8,2,1.0,skew,Bounded geometric + projection,16.43924802240917,15.10466532651751
+core_n8_e1_skew,8,2,1.0,skew,Geometric + projection,18.282591082152898,18.282591082152894
+core_n8_e1_skew,8,2,1.0,skew,Laplace + projection,18.666666666666668,18.666666666666664
+core_n8_e1_skew,8,2,1.0,skew,Independent bounded geometric,25.113678946105175,22.65699798977627
+core_n8_e1_skew,8,2,1.0,skew,CPM + projection,28.789234201281737,26.853363149359854
+core_n8_e1_skew,8,2,1.0,skew,Independent CPM,43.18385130192261,40.28004472403979
+core_n8_e1_skew,8,2,1.0,skew,Certified joint,9.842667584823168,9.578857099713959
+core_n8_e1_skew,8,2,1.0,skew,K-norm,11.666666666666664,11.666666666666664
+core_n8_e1_skew,8,2,1.0,skew,K-staircase,11.581582348010008,11.581582348010006
+core_n8_e1_skew,8,2,1.0,skew,Hexagonal geometric,11.070472235898768,11.070472235898768
+core_n8_e1_skew,8,2,1.0,skew,Optimized matrix Laplace,15.839110337551318,15.839110337551322
+core_n8_e1_skew,8,2,1.0,skew,Joint CPM family,31.953480525424357,29.980178137318287
+core_n8_e2_balanced,8,2,2.0,balanced,Bounded geometric + projection,1.1915627826481052,1.0698397772830637
+core_n8_e2_balanced,8,2,2.0,balanced,Geometric + projection,1.2275647922770567,1.2275647922770567
+core_n8_e2_balanced,8,2,2.0,balanced,Laplace + projection,1.3333333333333335,1.3333333333333337
+core_n8_e2_balanced,8,2,2.0,balanced,Independent bounded geometric,2.7250378631239904,2.4071394988868935
+core_n8_e2_balanced,8,2,2.0,balanced,CPM + projection,1.3828239319715012,1.3612073060070864
+core_n8_e2_balanced,8,2,2.0,balanced,Independent CPM,3.1113538469358772,3.062716438515944
+core_n8_e2_balanced,8,2,2.0,balanced,Certified joint,0.6591086561820431,0.6426963002422563
+core_n8_e2_balanced,8,2,2.0,balanced,K-norm,0.8333333333333333,0.8333333333333335
+core_n8_e2_balanced,8,2,2.0,balanced,K-staircase,0.7906456777370084,0.7906456777370087
+core_n8_e2_balanced,8,2,2.0,balanced,Hexagonal geometric,0.661233036273234,0.661233036273234
+core_n8_e2_balanced,8,2,2.0,balanced,Optimized matrix Laplace,1.333333333333333,1.3333333333333333
+core_n8_e2_balanced,8,2,2.0,balanced,Joint CPM family,2.350255425495966,2.329668648093356
+core_n8_e2_skew,8,2,2.0,skew,Bounded geometric + projection,4.186427669112839,3.744439220490723
+core_n8_e2_skew,8,2,2.0,skew,Geometric + projection,4.296476772969698,4.296476772969698
+core_n8_e2_skew,8,2,2.0,skew,Laplace + projection,4.666666666666667,4.666666666666666
+core_n8_e2_skew,8,2,2.0,skew,Independent bounded geometric,6.358421680622644,5.6166588307360845
+core_n8_e2_skew,8,2,2.0,skew,CPM + projection,4.8398837619002535,4.764225571024802
+core_n8_e2_skew,8,2,2.0,skew,Independent CPM,7.25982564285038,7.146338356537203
+core_n8_e2_skew,8,2,2.0,skew,Certified joint,2.2829603811507733,2.2352345008891645
+core_n8_e2_skew,8,2,2.0,skew,K-norm,2.916666666666666,2.916666666666666
+core_n8_e2_skew,8,2,2.0,skew,K-staircase,2.7672598720795296,2.76725987207953
+core_n8_e2_skew,8,2,2.0,skew,Hexagonal geometric,2.3143156269563194,2.314315626956319
+core_n8_e2_skew,8,2,2.0,skew,Optimized matrix Laplace,3.9597775843878296,3.9597775843878305
+core_n8_e2_skew,8,2,2.0,skew,Joint CPM family,5.483252461934869,5.435921714893764
+core_n8_e4_balanced,8,2,4.0,balanced,Bounded geometric + projection,0.24059583500873508,0.21403645257886733
+core_n8_e4_balanced,8,2,4.0,balanced,Geometric + projection,0.24135388698877017,0.24135388698877022
+core_n8_e4_balanced,8,2,4.0,balanced,Laplace + projection,0.33333333333333337,0.3333333333333334
+core_n8_e4_balanced,8,2,4.0,balanced,Independent bounded geometric,0.5428857894054797,0.48158201830245156
+core_n8_e4_balanced,8,2,4.0,balanced,CPM + projection,0.28480852126800477,0.2847942809346829
+core_n8_e4_balanced,8,2,4.0,balanced,Independent CPM,0.6408191728530106,0.6407871321030364
+core_n8_e4_balanced,8,2,4.0,balanced,Certified joint,0.07472458985696309,0.07304181701421686
+core_n8_e4_balanced,8,2,4.0,balanced,K-norm,0.20833333333333331,0.20833333333333337
+core_n8_e4_balanced,8,2,4.0,balanced,K-staircase,0.15145119868717238,0.15145119868717238
+core_n8_e4_balanced,8,2,4.0,balanced,Hexagonal geometric,0.07472489340619165,0.07472489340619164
+core_n8_e4_balanced,8,2,4.0,balanced,Optimized matrix Laplace,0.33333333333333326,0.3333333333333333
+core_n8_e4_balanced,8,2,4.0,balanced,Joint CPM family,0.33198056669328896,0.3319802865962561
+core_n8_e4_skew,8,2,4.0,skew,Bounded geometric + projection,0.8428200551186971,0.7491275840260357
+core_n8_e4_skew,8,2,4.0,skew,Geometric + projection,0.8447386044606957,0.8447386044606956
+core_n8_e4_skew,8,2,4.0,skew,Laplace + projection,1.1666666666666667,1.1666666666666665
+core_n8_e4_skew,8,2,4.0,skew,Independent bounded geometric,1.266733508612786,1.1236913760390537
+core_n8_e4_skew,8,2,4.0,skew,CPM + projection,0.9968298244380166,0.9967799832713902
+core_n8_e4_skew,8,2,4.0,skew,Independent CPM,1.4952447366570247,1.4951699749070853
+core_n8_e4_skew,8,2,4.0,skew,Certified joint,0.26153296421736066,0.2583588047768905
+core_n8_e4_skew,8,2,4.0,skew,K-norm,0.7291666666666665,0.7291666666666665
+core_n8_e4_skew,8,2,4.0,skew,K-staircase,0.5300791954051033,0.5300791954051034
+core_n8_e4_skew,8,2,4.0,skew,Hexagonal geometric,0.2615371269216708,0.26153712692167075
+core_n8_e4_skew,8,2,4.0,skew,Optimized matrix Laplace,0.9899443960969574,0.9899443960969576
+core_n8_e4_skew,8,2,4.0,skew,Joint CPM family,0.774621322284343,0.7746206687246131
+dim3_n2_e0.5,2,3,0.5,balanced,Bounded geometric + projection,13.920605605693023,13.820531663038349
+dim3_n2_e0.5,2,3,0.5,balanced,Geometric + projection,25.012312975365035,25.012312975365035
+dim3_n2_e0.5,2,3,0.5,balanced,Laplace + projection,25.142857142857146,25.142857142857146
+dim3_n2_e0.5,2,3,0.5,balanced,Independent bounded geometric,30.49163682127046,30.15388726481093
+dim3_n2_e0.5,2,3,0.5,balanced,CPM + projection,38.3483104703904,37.63689528913562
+dim3_n2_e0.5,2,3,0.5,balanced,Independent CPM,83.66904102630633,82.11686244902317
+dim3_n2_e0.5,2,3,0.5,balanced,Certified joint,11.967701074570668,11.854531433282716
+dim3_n2_e1,2,3,1.0,balanced,Bounded geometric + projection,3.710745507293638,3.624450497282633
+dim3_n2_e1,2,3,1.0,balanced,Geometric + projection,6.1563827113372005,6.1563827113372005
+dim3_n2_e1,2,3,1.0,balanced,Laplace + projection,6.2857142857142865,6.2857142857142865
+dim3_n2_e1,2,3,1.0,balanced,Independent bounded geometric,8.19913765285834,7.907891994071202
+dim3_n2_e1,2,3,1.0,balanced,CPM + projection,9.377230360813826,9.0817131488507
+dim3_n2_e1,2,3,1.0,balanced,Independent CPM,20.459411696321073,19.814646870219708
+dim3_n2_e1,2,3,1.0,balanced,Certified joint,2.9219913970702844,2.8377351980578696
+dim3_n2_e2,2,3,2.0,balanced,Bounded geometric + projection,0.9712302032455007,0.9097578783609306
+dim3_n2_e2,2,3,2.0,balanced,Geometric + projection,1.4467727908979597,1.4467727908979597
+dim3_n2_e2,2,3,2.0,balanced,Laplace + projection,1.5714285714285716,1.5714285714285716
+dim3_n2_e2,2,3,2.0,balanced,Independent bounded geometric,2.1923953765456363,1.9849262800602117
+dim3_n2_e2,2,3,2.0,balanced,CPM + projection,2.163553174807197,2.0643250414153362
+dim3_n2_e2,2,3,2.0,balanced,Independent CPM,4.7204796541247935,4.503981908542551
+dim3_n2_e2,2,3,2.0,balanced,Certified joint,0.6956677059185928,0.6956144964566003
+dim3_n3_e0.5,3,3,0.5,balanced,Bounded geometric + projection,15.147344097979309,14.935955314002783
+dim3_n3_e0.5,3,3,0.5,balanced,Geometric + projection,25.012312975365035,25.012312975365035
+dim3_n3_e0.5,3,3,0.5,balanced,Laplace + projection,25.142857142857146,25.14285714285715
+dim3_n3_e0.5,3,3,0.5,balanced,Independent bounded geometric,33.32183674809677,32.58753886691516
+dim3_n3_e0.5,3,3,0.5,balanced,CPM + projection,46.38624005939749,45.087097603866276
+dim3_n3_e0.5,3,3,0.5,balanced,Independent CPM,101.20634194777634,98.37184931752645
+dim3_n3_e0.5,3,3,0.5,balanced,Certified joint,12.599867431701483,12.530093469385147
+dim3_n3_e1,3,3,1.0,balanced,Bounded geometric + projection,4.1918871359222685,4.027257385428839
+dim3_n3_e1,3,3,1.0,balanced,Geometric + projection,6.1563827113372005,6.1563827113372005
+dim3_n3_e1,3,3,1.0,balanced,Laplace + projection,6.2857142857142865,6.285714285714287
+dim3_n3_e1,3,3,1.0,balanced,Independent bounded geometric,9.358615151262105,8.786743386390196
+dim3_n3_e1,3,3,1.0,balanced,CPM + projection,10.988469188958888,10.501172111952348
+dim3_n3_e1,3,3,1.0,balanced,Independent CPM,23.97484186681939,22.91164824425967
+dim3_n3_e1,3,3,1.0,balanced,Certified joint,3.133962479761736,3.0418835787509515
+dim3_n3_e2,3,3,2.0,balanced,Bounded geometric + projection,1.121530326372326,1.0216773351972201
+dim3_n3_e2,3,3,2.0,balanced,Geometric + projection,1.4467727908979597,1.4467727908979597
+dim3_n3_e2,3,3,2.0,balanced,Laplace + projection,1.5714285714285716,1.5714285714285718
+dim3_n3_e2,3,3,2.0,balanced,Independent bounded geometric,2.575971944703632,2.229114185884844
+dim3_n3_e2,3,3,2.0,balanced,CPM + projection,2.332815128960707,2.204500165372262
+dim3_n3_e2,3,3,2.0,balanced,Independent CPM,5.089778463186997,4.80981854263039
+dim3_n3_e2,3,3,2.0,balanced,Certified joint,0.7939073612530794,0.7601958964806446
+dim3_n4_e0.5,4,3,0.5,balanced,Bounded geometric + projection,16.215771708428328,15.886584297790877
+dim3_n4_e0.5,4,3,0.5,balanced,Geometric + projection,25.012312975365035,25.012312975365035
+dim3_n4_e0.5,4,3,0.5,balanced,Laplace + projection,25.142857142857146,25.142857142857142
+dim3_n4_e0.5,4,3,0.5,balanced,Independent bounded geometric,35.62342074848837,34.66163846790737
+dim3_n4_e0.5,4,3,0.5,balanced,CPM + projection,49.635588924483145,47.83802497610837
+dim3_n4_e0.5,4,3,0.5,balanced,Independent CPM,108.29583038069048,104.37387267514553
+dim3_n4_e0.5,4,3,0.5,balanced,Certified joint,13.156480312195999,13.088217940855115
+dim3_n4_e1,4,3,1.0,balanced,Bounded geometric + projection,4.566711983054885,4.329812799474699
+dim3_n4_e1,4,3,1.0,balanced,Geometric + projection,6.1563827113372005,6.1563827113372
+dim3_n4_e1,4,3,1.0,balanced,Laplace + projection,6.2857142857142865,6.285714285714286
+dim3_n4_e1,4,3,1.0,balanced,Independent bounded geometric,10.127299514980747,9.44686428976298
+dim3_n4_e1,4,3,1.0,balanced,CPM + projection,11.330423346577916,10.725703912298126
+dim3_n4_e1,4,3,1.0,balanced,Independent CPM,24.720923665260905,23.401535808650458
+dim3_n4_e1,4,3,1.0,balanced,Certified joint,3.3382983490845604,3.275564664958109
+dim3_n4_e2,4,3,2.0,balanced,Bounded geometric + projection,1.2258949403056225,1.0940116939711988
+dim3_n4_e2,4,3,2.0,balanced,Geometric + projection,1.4467727908979597,1.4467727908979597
+dim3_n4_e2,4,3,2.0,balanced,Laplace + projection,1.5714285714285716,1.5714285714285714
+dim3_n4_e2,4,3,2.0,balanced,Independent bounded geometric,2.7453498839016115,2.3869346050280704
+dim3_n4_e2,4,3,2.0,balanced,CPM + projection,2.211143098495437,2.091015400712467
+dim3_n4_e2,4,3,2.0,balanced,Independent CPM,4.824312214899135,4.562215419736291
+dim3_n4_e2,4,3,2.0,balanced,Certified joint,0.8355263148721082,0.8191299372001786

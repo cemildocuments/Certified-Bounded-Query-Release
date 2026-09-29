@@ -1,0 +1,24 @@
+{
+  "Adult": {
+    "records": 48842,
+    "cohorts": 6105,
+    "discarded_remainder": 2,
+    "category_counts": [
+      22192,
+      14540,
+      12110
+    ],
+    "seed": 20260928
+  },
+  "Bank Marketing": {
+    "records": 45211,
+    "cohorts": 5651,
+    "discarded_remainder": 3,
+    "category_counts": [
+      27214,
+      12790,
+      5207
+    ],
+    "seed": 20260928
+  }
+}
